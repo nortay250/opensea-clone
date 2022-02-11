@@ -8,5 +8,6 @@
 - Send and receive functionality for NFTs on the blockchain
 
 ## Check it Out
+https://opensea-clone-33mrosy8v-nortay250.vercel.app/
 
 ![Screenshot 2022-02-12 at 1 09 58 AM](https://user-images.githubusercontent.com/84952189/153636872-6004ee2c-b777-4a97-b90e-0727c16393bc.png)
